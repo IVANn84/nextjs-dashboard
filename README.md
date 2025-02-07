@@ -5,4 +5,5 @@ This is the starter template for the Next.js App Router Course. It contains the 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 # nextjs-dashboard
 
-**Example usage:** [*Open this page Vercel.*](https://nextjs-dashboard-294vlwstd-ivantihii1984-gmailcoms-projects.vercel.app/)
+**Example usage:** [*Open this page Vercel.*](https://nextjs-dashboard-iota-one-34.vercel.app)
+
